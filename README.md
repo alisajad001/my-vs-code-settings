@@ -25,3 +25,7 @@
 - **Quokka.js**
   - Description: Live Scratchpad for JavaScript.
   - [Link to Extension](https://marketplace.visualstudio.com/items/wallabyjs.quokka-vscode)
+
+- **Auto Rename Tag**
+  - Description: Automatically rename paired HTML/React tags.
+  - [Link to Extension](https://marketplace.visualstudio.com/items/formulahendry.auto-rename-tag)
