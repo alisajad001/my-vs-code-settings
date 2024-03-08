@@ -62,4 +62,10 @@
   "editor.fontSize": 14,
   "editor.tabSize": 2,
   "files.autoSave": "onFocusChange",
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.trailingComma": "all",
+  "editor.formatOnSave": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "editor.fontFamily": "Fira Code",
 }
