@@ -45,3 +45,6 @@
   - Description: A professional theme with hand-picked & bold shades of purple.
   - [Link to Theme](https://marketplace.visualstudio.com/items/ahmadawais.shades-of-purple)
 
+- **GitHub Theme**
+  - Description: GitHub theme for Visual Studio Code.
+  - [Link to Theme](https://marketplace.visualstudio.com/items/gerane.Theme-GitHub)
