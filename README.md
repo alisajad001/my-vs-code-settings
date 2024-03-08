@@ -33,3 +33,7 @@
 - **Auto Close Tag**
   - Description: Automatically add HTML/React closing tags.
   - [Link to Extension](https://marketplace.visualstudio.com/items/formulahendry.auto-close-tag)
+
+- **Auto Import**
+  - Description: Automatically finds, parses, and provides code actions and code completion for all available imports.
+  - [Link to Extension](https://marketplace.visualstudio.com/items/steoates.autoimport)
