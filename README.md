@@ -53,3 +53,13 @@
   - Description: Dracula theme for Visual Studio Code.
   - [Link to Theme](https://marketplace.visualstudio.com/items/dracula-theme.theme-dracula)
   
+
+## Settings ⚙
+
+
+```json
+{
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange",
+}
