@@ -17,3 +17,7 @@
 - **ES7 + React/Redux/GraphQL**
   - Description: Modern JavaScript/React/Redux/GraphQL snippets.
   - [Link to Extension](https://marketplace.visualstudio.com/items/dsznajder.es7-react-js-snippets)
+
+- **Prettier - Code formatter**
+  - Description: Format your code with a consistent style using Prettier.
+  - [Link to Extension](https://marketplace.visualstudio.com/items/esbenp.prettier-vscode)
