@@ -21,3 +21,7 @@
 - **Prettier - Code formatter**
   - Description: Format your code with a consistent style using Prettier.
   - [Link to Extension](https://marketplace.visualstudio.com/items/esbenp.prettier-vscode)
+
+- **Quokka.js**
+  - Description: Live Scratchpad for JavaScript.
+  - [Link to Extension](https://marketplace.visualstudio.com/items/wallabyjs.quokka-vscode)
