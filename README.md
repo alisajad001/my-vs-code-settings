@@ -40,3 +40,8 @@
 
 
 ## Theme 🌈
+
+- **Shades of Purple**
+  - Description: A professional theme with hand-picked & bold shades of purple.
+  - [Link to Theme](https://marketplace.visualstudio.com/items/ahmadawais.shades-of-purple)
+
