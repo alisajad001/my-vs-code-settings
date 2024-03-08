@@ -48,3 +48,8 @@
 - **GitHub Theme**
   - Description: GitHub theme for Visual Studio Code.
   - [Link to Theme](https://marketplace.visualstudio.com/items/gerane.Theme-GitHub)
+
+- **Dracula Official**
+  - Description: Dracula theme for Visual Studio Code.
+  - [Link to Theme](https://marketplace.visualstudio.com/items/dracula-theme.theme-dracula)
+  
