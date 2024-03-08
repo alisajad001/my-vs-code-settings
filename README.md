@@ -29,3 +29,7 @@
 - **Auto Rename Tag**
   - Description: Automatically rename paired HTML/React tags.
   - [Link to Extension](https://marketplace.visualstudio.com/items/formulahendry.auto-rename-tag)
+
+- **Auto Close Tag**
+  - Description: Automatically add HTML/React closing tags.
+  - [Link to Extension](https://marketplace.visualstudio.com/items/formulahendry.auto-close-tag)
